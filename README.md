@@ -1,1 +1,1 @@
-# Modular-Local-RAG-System
+# modular-Local-RAG-System
