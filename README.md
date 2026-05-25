@@ -1,1 +1,1 @@
-# mutli-agent-rag-system
+Modular Local RAG System
