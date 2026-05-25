@@ -63,18 +63,21 @@ modular-local-rag-system/
 
 ## 🖼️ Demo Screenshots
 
-### Home Interface
+### 🏠 Home Interface
 
 ![Homepage](assets/homepage.png)
 
 ---
 
-### AI Answer Generation
+### 📄 PDF Indexed Successfully
 
-![Answer Demo](assets/answer-demo.png)
+![Upload Success](assets/upload-success.png)
 
 ---
 
+### 🤖 AI Response Generation
+
+![Answer Demo](assets/answer-demo.png)
 ## ⚙️ Installation
 
 ### 1. Clone Repository
